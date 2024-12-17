@@ -13,7 +13,7 @@ Laravel HTMLMin, developed by [Kenan Gündoğan](https://github.com/kenangundoga
 Laravel HTMLMin requires **PHP 7.3+** and is compatible with **Laravel 7.x, 8.x, 9.x, 10.x**, and 11.x. You can install the package using Composer:
 
 ```bash
-composer require htmlmin/htmlmin
+composer require kenangundogan/htmlmin
 ```
 
 ### Automatic Loading
